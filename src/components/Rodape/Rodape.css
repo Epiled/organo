@@ -1,0 +1,32 @@
+.footer {
+    background-image: 
+    url('http://localhost:3000/images/fundo.png')
+    ,linear-gradient(0deg, #6278F7, #6278F7);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 75px 160px;
+}
+
+.footer .social {
+    display: flex;
+    gap: 40px;
+}
+
+.footer ul {
+    list-style: none;
+}
+
+.footer .social img {
+    width: 30px;
+}
+
+.footer .logo {
+    width: 166px;
+}
+
+.footer p {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 500;
+}
