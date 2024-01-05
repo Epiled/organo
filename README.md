@@ -15,9 +15,7 @@ Projeto do curso <a href="https://cursos.alura.com.br/course/react-desenvolvendo
 
 <h2 id="detalhes-do-projeto"> 📃 Detalhes do projeto </h2>
 
-O Alura Books é um site de venda de livros desenvolvido com tecnologias modernas para proporcionar uma experiência de usuário envolvente e eficiente.
-
-Implementei o ESLint para assegurar a consistência e qualidade do código. Todo o desenvolvimento foi realizado utilizando React com TypeScript, e a estilização foi feita por meio do Styled Components.
+Uma aplicação React que permite o registro e organização de profissionais por categoria, exibindo informações como nome, cargo, categoria e foto. A interface é intuitiva, responsiva e fornece detalhes específicos sobre cada profissional.
 
 ![Badge](https://img.shields.io/github/last-commit/Epiled/organo?style=for-the-badge)
 ![Badge](https://img.shields.io/github/languages/code-size/Epiled/organo?style=for-the-badge)
