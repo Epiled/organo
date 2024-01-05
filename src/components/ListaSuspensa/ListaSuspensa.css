@@ -12,3 +12,14 @@
     font-size: 24px;
     padding: 24px;
 }
+
+@media only screen and (max-width: 767px) {
+    .lista-suspensa {
+        font-size: 18px;
+    }
+
+    .lista-suspensa select {
+        font-size: 14px;
+        padding: 12px;
+    }
+}

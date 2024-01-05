@@ -17,3 +17,14 @@
     padding: 24px;
     box-sizing: border-box;
 }
+
+@media only screen and (max-width: 767px) {
+    .campo-texto label {
+        font-size: 18px;
+    }
+
+    .campo-texto input {
+        font-size: 14px;
+        padding: 12px;
+    }
+}

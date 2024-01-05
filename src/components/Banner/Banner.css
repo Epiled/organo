@@ -3,6 +3,7 @@
     text-align: center;
 }
 
-.baner img {
+.banner img {
+    width: auto;
     max-width: 100%;
 }
