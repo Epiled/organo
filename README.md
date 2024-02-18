@@ -76,7 +76,7 @@ https://github.com/Epiled/organo/assets/55258483/e750656e-9a97-4b54-9fd4-d9306fe
 <h2 id="como-usar"> 👩‍🏫 Como usar </h2>
 
 ```
-1. npm run dev
+1. npm run start
 2. Acesse a url http://localhost:5173/
 ```
 
